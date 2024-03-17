@@ -25,5 +25,5 @@ _______________________________
 
 ## 📉 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=terrlble&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrlble&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=terrlble&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrlble&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
